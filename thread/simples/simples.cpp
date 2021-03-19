@@ -4,6 +4,7 @@
 
 // Livro gratuito disponível no link: https://docs.google.com/document/d/14S8MAcjspdbBWsja-Ijb_GQfs4C1PzJmDcTJ3bYXyeQ/edit?usp=sharing
 // Vídeo explicativo disponível no link: https://youtu.be/1yIAPfL4a5Y
+// Como compilar acesse o livro ou o vídeo
 
 using namespace std;
 
