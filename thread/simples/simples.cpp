@@ -2,6 +2,9 @@
 #include <iostream>
 #include <thread>
 
+// Livro gratuito disponível no link: https://docs.google.com/document/d/14S8MAcjspdbBWsja-Ijb_GQfs4C1PzJmDcTJ3bYXyeQ/edit?usp=sharing
+// Vídeo explicativo disponível no link: 
+
 using namespace std;
 
 void task1(std::string msg){
