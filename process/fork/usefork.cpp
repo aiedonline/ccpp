@@ -9,9 +9,7 @@
 // Como compilar acesse o livro ou o vídeo
 
 using namespace std;
-
 int variavelGlobal = 2;
-
 main() {
    string identidade;
    int variavelFuncao = 20;
